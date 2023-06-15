@@ -58,6 +58,10 @@ group :development do
   gem "web-console"
   gem 'faker'
   gem 'csv'
+  gem "wkhtmltopdf-binary-edge"
+  gem "pdfkit"
+  gem 'render_anywhere'
+  gem 'unicorn'
 
   # Add speed badges [https://github.com/MiniProfiler/rack-mini-profiler]
   # gem "rack-mini-profiler"
